@@ -1,0 +1,20 @@
+.flag{
+    height:220px;
+    width:450px;
+    margin-top: 230px;
+    margin-left: 380px;
+}
+.sections{
+    width:150px;
+    height:220px;
+    display: inline-block;
+}
+.blue{
+    background-color:#001d7b;
+}
+.white{
+    background-color:#ffffff;
+}
+.red{
+    background-color:#eb2938;
+}
